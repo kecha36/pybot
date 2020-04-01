@@ -5,6 +5,6 @@ pythonトレーニング
 mac
 
 # 動作確認
-source env/bin/activate
-python3 pybotweb.py
+```source env/bin/activate```  
+```python3 pybotweb.py```  
 http://localhost:8080/hello
